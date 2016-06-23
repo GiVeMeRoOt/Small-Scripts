@@ -1,0 +1,3 @@
+Hello...
+This is my own program written for the python course conducted by MIT on edx.org.
+It was an assignment question and this program satisfied all the test cases.
